@@ -14,7 +14,7 @@ gollum
 ### **Windows**  
 1. 위키페이지로 이용되는 repository에 config.rb 파일을 생성한다.
 2. config.rb파일에 설정하고자 하는 변수를 설정후 저장한다.
-3. gollum 서버 실행시 다음 명령어를 통해 config 파일 지정 실행을 한다.
+3. gollum 서버 실행시, 다음 명령어를 통해 config 파일 지정 실행을 한다.
 ```
 gollum --config config.rb
 ```
@@ -34,4 +34,4 @@ class Precious::App
     end
 end
 ```
-* **gollum 서버 실행시 `gollum --config config.rb`로 실행해야지만 위에 설정한 내용이 적용이 된다.**
+* **gollum 서버 실행시, `gollum --config config.rb`로 실행해야지만 위에 설정한 내용이 적용이 된다.**
