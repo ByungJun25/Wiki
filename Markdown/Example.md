@@ -72,4 +72,4 @@ example code box
 
 ## 이미지
 
-* ![예시 이미지]()
+* ![예시 이미지](https://github.com/ByungJun25/Wiki/blob/master/Markdown/example_image.jpg)
