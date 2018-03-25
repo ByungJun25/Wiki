@@ -5,5 +5,5 @@
 시작일: 17. 03. 2018.
 
 # 목록
-* [gollum](Wiki/blob/master/gollum/kr/Installation.md)
-* [markdown](Wiki/blob/master/Markdown/Markdown)
+* [gollum](https://github.com/ByungJun25/Wiki/blob/master/gollum/kr/Installation.md)
+* [markdown](https://github.com/ByungJun25/Wiki/blob/master/Markdown/Markdown.md)
