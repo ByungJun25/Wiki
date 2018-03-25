@@ -4,7 +4,7 @@
 
 소프트웨어 디자인 패턴중 생성 패턴에 속하는 디자인 패턴입니다. **Singleton Pattern**을 따르는 클래스는, 생성자가 여러 차례 호출되더라도 실제로 생성되는 객체는 하나이고 최초 생성 이후에 호출된 생성자는 최초의 생성자가 생성한 객체를 리턴합니다. 주로 공통된 객체를 여러개 생성해서 사용하는 DBCP(DataBase Connection Pool)와 같은 상황에서 많이 사용됩니다.  
 
-[[https://upload.wikimedia.org/wikipedia/commons/f/fb/Singleton_UML_class_diagram.svg|align=center]]   
+![Singleton Pattern Class Diagram](https://upload.wikimedia.org/wikipedia/commons/f/fb/Singleton_UML_class_diagram.svg "Singleton Pattern Class Diagram")
 
 ### 2. 싱글톤 구현
 
