@@ -5,4 +5,5 @@
 시작일: 17. 03. 2018.
 
 # 목록
-* [gollum](/pages/gollum/)
+* [gollum](Wiki/blob/master/gollum/kr/Installation.md)
+* [markdown](Wiki/blob/master/Markdown/Markdown)
