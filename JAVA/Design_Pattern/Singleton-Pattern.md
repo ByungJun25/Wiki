@@ -6,6 +6,8 @@
 
 ![Singleton Pattern Class Diagram](https://upload.wikimedia.org/wikipedia/commons/f/fb/Singleton_UML_class_diagram.svg "Singleton Pattern Class Diagram")
 
+* 이미지 출처: 위키백과(<https://ko.wikipedia.org/wiki/%EC%8B%B1%EA%B8%80%ED%84%B4_%ED%8C%A8%ED%84%B4>)
+
 ## 2. 싱글톤 구현
 
 ### 2.1 Eager initialization
@@ -162,3 +164,9 @@ public class Demo {
   * 앞서 봐왔던 코드에서 private로 생성자를 선언하였지만, runtime에서 리플렉션(Reflection)을 통해 private 생성자에 접근을 할 수 있기때문에 싱글톤 깨트림 문제가 발생할 수 있습니다.
 
 `enum`을 사용한 singleton은 여러 문제를 한번에 해결할뿐만 아니라 인스턴스 생성에 대한 thread-safe까지 보장되기에 **effective java에서 추천하는 방법**입니다. 다만 기존 `enum`을 사용하던 방식과 다르기에 일반적인 쓰임새와 혼동되지 않도록 주의해야할 필요가 있습니다.
+
+
+## 참고 사이트
+
+* <https://ko.wikipedia.org/wiki/%EC%8B%B1%EA%B8%80%ED%84%B4_%ED%8C%A8%ED%84%B4>
+* [http://jdm.kr/blog/10](http://jdm.kr/blog/10)
