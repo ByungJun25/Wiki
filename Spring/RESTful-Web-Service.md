@@ -1,7 +1,7 @@
 # RESTful Web Service
 
 ## 1. REST의 이해
-**REST** **(Representational State Transfer)**란 분산시스템 설계를 위한 아키텍쳐 스타일을 말하며 Roy Fielding의 2000년 박사논문에서 소개되고 정의되었습니다. REST는 표준은 아니지만 stateless하다거나, 서버/클라이언트 관계를 가지거나, 일정한 인터페이스를 가지는 것과 같은 **하나의 제약사항**을 나타내는 것입니다. 또한 REST는 엄격하게는 HTTP와 관련이 없지만, 일반적으로 연관이 있다고 말합니다.
+**REST**(Representational State Transfer)란 분산시스템 설계를 위한 아키텍쳐 스타일을 말하며 Roy Fielding의 2000년 박사논문에서 소개되고 정의되었습니다. REST는 표준은 아니지만 stateless하다거나, 서버/클라이언트 관계를 가지거나, 일정한 인터페이스를 가지는 것과 같은 **하나의 제약사항**을 나타내는 것입니다. 또한 REST는 엄격하게는 HTTP와 관련이 없지만, 일반적으로 연관이 있다고 말합니다.
 
 ## 2. REST의 원칙
 * Resource는 URI를 통하여 쉽게 이해할 수 있도록 표현되어야합니다.
